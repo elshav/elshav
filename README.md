@@ -1,8 +1,6 @@
 # Hello, I'm Elisha Veriwa 👋
 ### Business Analyst | Aspiring Data Scientist | AgriTech Enthusiast
 
-![Elisha's Profile](https://link_to_your_image.jpg)  <!-- Replace with your actual image link -->
-
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-000000?style=flat&logo=data%20science)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFCA28?style=flat&logo=TensorFlow&logoColor=white)
