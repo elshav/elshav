@@ -80,18 +80,13 @@ I'm a Business Analyst based in Harare, Zimbabwe, with a strong foundation in ac
 - **Certifications**: Data Science Certification (DataCamp), SQL Language Certification (Data Analyst Associate)
 
 ### Contact Me
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [everiwa@gmail.com](mailto:everiwa@gmail.com)
 - **LinkedIn:** [Elisha Veriwa](https://www.linkedin.com/in/elishaveriwa)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Twitter:** [@Elishavenz](https://twitter.com/Elishavenz)
 
 ---
 
 ### Thank You for Visiting My Profile! 🚀
 I'm excited to connect with like-minded individuals and collaborate on innovative projects that drive impact and sustainability.
-
-### Updates
-[![General badge](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://shields.io/)
-
-[![Stats badge](https://github-readme-stats.vercel.app/api?username=elshav&theme=blue-green.svg)](https://shields.io/)
 
 > “Data is the new oil.” – Clive Humby
