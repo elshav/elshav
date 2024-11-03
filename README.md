@@ -81,7 +81,7 @@ I'm a Business Analyst based in Harare, Zimbabwe, with a strong foundation in ac
 
 ### Contact Me
 - **Email:** [everiwa@gmail.com](mailto:everiwa@gmail.com)
-- **LinkedIn:** [Elisha Veriwa](https://www.linkedin.com/in/elishaveriwa)
+- **LinkedIn:** [elishaveriwa](https://www.linkedin.com/in/elishaveriwa)
 - **Twitter:** [@Elishavenz](https://twitter.com/Elishavenz)
 
 ---
