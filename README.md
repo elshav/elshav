@@ -1,9 +1,10 @@
 # Hello, I'm Elisha Veriwa 👋
 
+
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-000000?style=flat&logo=data%20science)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFCA28?style=flat&logo=TensorFlow&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft%20excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![Stackoverflow](https://img.shields.io/badge/Stackoverflow-FFA500?style=flat&logo=stackoverflow&logoColor=white)
 
