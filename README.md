@@ -1,6 +1,5 @@
 # Hello, I'm Elisha Veriwa 👋
 
-[![General badge](https://img.shields.io/badge/DataScience-Accounting-white.svg)](https://shields.io/)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-000000?style=flat&logo=data%20science)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFCA28?style=flat&logo=TensorFlow&logoColor=white)
@@ -11,6 +10,8 @@
 ---
 
 ### About Me
+[![General badge](https://img.shields.io/badge/DataScience-Accounting-white.svg)](https://shields.io/)
+
 I'm a Business Analyst based in Harare, Zimbabwe, with a strong foundation in accounting and a passion for data science. I am currently working to leverage data analysis in driving business insights and improving operational efficiency. My goal is to transition into a professional Data Scientist role by June 2025, focusing on predictive analytics and enhancing budgeting accuracy.
 
 ### Skills & Technologies
