@@ -15,14 +15,20 @@
 I'm a Business Analyst based in Harare, Zimbabwe, with a strong foundation in accounting and a passion for data science. I am currently working to leverage data analysis in driving business insights and improving operational efficiency. My goal is to transition into a professional Data Scientist role by June 2025, focusing on predictive analytics and enhancing budgeting accuracy.
 
 ### Skills & Technologies
-<div>
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R" width="80"/>
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" width="80"/>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="80"/>
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white" alt="Excel" width="80"/>
-    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" width="80"/>
-    <img src="https://img.shields.io/badge/DataCamp-2A4C68?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp" width="80"/>
+<div align="center">
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R" height="25"/>
+    <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white" alt="SQL" height="25"/>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" height="25"/>
+    <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="25"/>
+    <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" alt="RStudio" height="25"/>
+    <img src="https://img.shields.io/badge/DataCamp-2A4C68?style=flat-square&logo=datacamp&logoColor=white" alt="DataCamp" height="25"/>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" height="25"/>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" height="25"/>
+    <img src="https://img.shields.io/badge/DAX-4479A1?style=flat-square&logo=microsoft&logoColor=white" alt="DAX" height="25"/>
+    <img src="https://img.shields.io/badge/M_Language-5E5E5E?style=flat-square&logo=power-bi&logoColor=white" alt="M Language" height="25"/>
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="Microsoft Office" height="25"/>
 </div>
+
 
 ### Featured Projects
 - **[Predictive Analytics for Financial Planning](https://github.com/yourusername/project1)**: A project focused on using R to implement predictive analytics for improving budgeting accuracy and financial planning.
