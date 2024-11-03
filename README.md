@@ -12,6 +12,8 @@
 ---
 
 ### About Me
+[![General badge](https://img.shields.io/badge/DataScience-Accounting-white.svg)](https://shields.io/)
+
 I'm a Business Analyst based in Harare, Zimbabwe, with a strong foundation in accounting and a passion for data science. I am currently working to leverage data analysis in driving business insights and improving operational efficiency. My goal is to transition into a professional Data Scientist role by June 2025, focusing on predictive analytics and enhancing budgeting accuracy.
 
 ### Skills & Technologies
@@ -40,9 +42,9 @@ I'm a Business Analyst based in Harare, Zimbabwe, with a strong foundation in ac
 - **Certifications**: Data Science Certification (DataCamp), SQL Language Certification (Data Analyst Associate)
 
 ### Contact Me
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Elisha Veriwa](https://www.linkedin.com/in/elishaveriwa)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Email:** [everiwa@gmail.com](mailto:everiwa@gmail.com)
+- **LinkedIn:** [elishaveriwa](https://www.linkedin.com/in/elishaveriwa)
+- **Twitter:** [@Elishavenz](https://twitter.com/Elishavenz)
 
 ---
 
@@ -56,37 +58,4 @@ I'm excited to connect with like-minded individuals and collaborate on innovativ
 
 > “Data is the new oil.” – Clive Humby
 
-
 ---
-
-### About Me
-[![General badge](https://img.shields.io/badge/DataScience-Accounting-white.svg)](https://shields.io/)
-
-I'm a Business Analyst based in Harare, Zimbabwe, with a strong foundation in accounting and a passion for data science. I am currently working to leverage data analysis in driving business insights and improving operational efficiency. My goal is to transition into a professional Data Scientist role by June 2025, focusing on predictive analytics and enhancing budgeting accuracy.
-
-### Skills & Technologies
-- **Programming Languages:** R, SQL, Python
-- **Tools:** RStudio, Excel (Power Query, DAX), DataCamp
-- **Areas of Expertise:** Business Analysis, Predictive Analytics, Financial Reporting, Capital Budgeting
-- **Interests:** AI, Data Visualization, AgriTech Solutions, Smart Logistics
-
-### Featured Projects
-- **[Predictive Analytics for Financial Planning](https://github.com/yourusername/project1)**: A project focused on using R to implement predictive analytics for improving budgeting accuracy and financial planning.
-- **[AgriTech & Sustainable Farming Solutions](https://github.com/yourusername/project2)**: Developing innovative solutions to address food insecurity and leverage technology in agriculture, aiming for a data-driven farm business model in Rusape, Zimbabwe.
-- **[Smart Logistics & E-commerce Solutions](https://github.com/yourusername/project3)**: A project aimed at streamlining supply chain management using AI and blockchain technology, targeting inefficiencies in transport infrastructure across Zimbabwe.
-
-### Education
-- **MBA in Managerial Accounting** (In Progress) - University of the People
-- **Certifications**: Data Science Certification (DataCamp), SQL Language Certification (Data Analyst Associate)
-
-### Contact Me
-- **Email:** [everiwa@gmail.com](mailto:everiwa@gmail.com)
-- **LinkedIn:** [elishaveriwa](https://www.linkedin.com/in/elishaveriwa)
-- **Twitter:** [@Elishavenz](https://twitter.com/Elishavenz)
-
----
-
-### Thank You for Visiting My Profile! 🚀
-I'm excited to connect with like-minded individuals and collaborate on innovative projects that drive impact and sustainability.
-
-> “Data is the new oil.” – Clive Humby
