@@ -60,7 +60,7 @@ I'm excited to connect with like-minded individuals and collaborate on innovativ
 
 ---
 
-<div align="center">
+<<div align="center">
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R" height="25"/>
     <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white" alt="SQL" height="25"/>
     <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" height="25"/>
@@ -73,3 +73,4 @@ I'm excited to connect with like-minded individuals and collaborate on innovativ
     <img src="https://img.shields.io/badge/M_Language-4A7A99?style=flat-square&logo=power-query&logoColor=white" alt="M Language" height="25"/>
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="Microsoft Office" height="25"/>
 </div>
+
