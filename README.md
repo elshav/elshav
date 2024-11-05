@@ -14,7 +14,7 @@
 ### About Me
 [![General badge](https://img.shields.io/badge/DataScience-Accounting-white.svg)](https://shields.io/)
 
-I'm a Business Analyst based in Harare, Zimbabwe, with a strong foundation in accounting and a passion for data science. I am currently working to leverage data analysis in driving business insights and improving operational efficiency. My goal is to transition into a professional Data Scientist role by June 2025, focusing on predictive analytics and enhancing budgeting accuracy.
+I'm a Business Analyst based in Harare, Zimbabwe, with a strong foundation in accounting and a passion for data science. I am currently working to leverage data analysis in driving business insights and improving operational efficiency. My goal is to transition into a professional Data Scientist role by June 2025, focusing on predictive analytics and enhancing `Budgeting` and `Financial Reporting` accuracy.
 
 ### Skills & Technologies
 <div align="center">
