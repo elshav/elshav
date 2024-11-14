@@ -45,6 +45,8 @@ src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=flat&logo=Tidyverse
 - **Certifications**: Data Science Certification (DataCamp), SQL Language Certification (Data Analyst Associate)
 
 ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=flat&logo=Udemy&logoColor=white)
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=flat&logo=datacamp&logoColor=03E860)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)
 
 ### Contact Me
 - **Email:** [everiwa@gmail.com](mailto:everiwa@gmail.com)
