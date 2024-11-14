@@ -8,6 +8,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft%20excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![Stackoverflow](https://img.shields.io/badge/Stackoverflow-FFA500?style=flat&logo=stackoverflow&logoColor=white)
+<img alt="Udemy" src="https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white"/>
 
 ---
 
