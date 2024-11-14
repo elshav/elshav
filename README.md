@@ -30,7 +30,8 @@ src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=flat&logo=Tidyverse
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="Power BI" height="20"/>
     <img src="https://img.shields.io/badge/DAX-4479A1?style=flat&logo=microsoft&logoColor=white" alt="DAX" height="20"/>
     <img src="https://img.shields.io/badge/M_Language-5E5E5E?style=flat&logo=power-bi&logoColor=white" alt="M Language" height="20"/>
-    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" alt="Microsoft Office" height="20"/>
+    <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter" height="20"/>
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft_office&logoColor=white" alt="Microsoft Office" height="20"/>" alt="Microsoft Office" height="20"/>
 </div>
 
 
