@@ -16,6 +16,8 @@ I'm a Business Analyst based in Harare, Zimbabwe, with a strong foundation in ac
     <img
 src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" alt="SQL" height="20"/>
     <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white" alt="SQL" height="20"/>
+    <img
+src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="20" />
     <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" alt="Python" height="20"/>
     <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" height="20"/>
     <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" alt="RStudio" height="20"/>
