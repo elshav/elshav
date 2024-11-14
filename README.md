@@ -3,7 +3,6 @@
 ![Data Science](https://img.shields.io/badge/Data%20Science-000000?style=flat&logo=data%20science)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFCA28?style=flat&logo=TensorFlow&logoColor=white)
 ![Stackoverflow](https://img.shields.io/badge/Stackoverflow-FFA500?style=flat&logo=stackoverflow&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=flat&logo=Udemy&logoColor=white)
 
 ---
 
@@ -39,6 +38,7 @@ src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=flat&logo=Tidyverse
 ### Education
 - **MBA in Managerial Accounting** (In Progress) - University of the People
 - **Certifications**: Data Science Certification (DataCamp), SQL Language Certification (Data Analyst Associate)
+![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=flat&logo=Udemy&logoColor=white)
 
 ### Contact Me
 - **Email:** [everiwa@gmail.com](mailto:everiwa@gmail.com)
