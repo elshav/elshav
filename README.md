@@ -15,6 +15,8 @@ I'm a Business Analyst based in Harare, Zimbabwe, with a strong foundation in ac
 <div align="center">
     <img
 src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" alt="SQL" height="20"/>
+    <img
+src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="20"/>
     <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white" alt="SQL" height="20"/>
     <img
 src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="20" />
