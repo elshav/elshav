@@ -2,7 +2,6 @@
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-000000?style=flat&logo=data%20science)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFCA28?style=flat&logo=TensorFlow&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft%20excel&logoColor=white)
 ![Stackoverflow](https://img.shields.io/badge/Stackoverflow-FFA500?style=flat&logo=stackoverflow&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=flat&logo=Udemy&logoColor=white)
 
