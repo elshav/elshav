@@ -43,6 +43,7 @@ src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=flat&logo=Tidyverse
 ### Education
 - **MBA in Managerial Accounting** (In Progress) - University of the People
 - **Certifications**: Data Science Certification (DataCamp), SQL Language Certification (Data Analyst Associate)
+
 ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=flat&logo=Udemy&logoColor=white)
 
 ### Contact Me
