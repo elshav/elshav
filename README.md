@@ -1,6 +1,6 @@
 # Hello, I'm Elisha Veriwa 👋
 
-![Data Science](https://img.shields.io/badge/Data%20Science-000000?style=flat&logo=data%20science)
+![GitHub](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFCA28?style=flat&logo=TensorFlow&logoColor=white)
 ![Stackoverflow](https://img.shields.io/badge/Stackoverflow-FFA500?style=flat&logo=stackoverflow&logoColor=white)
 
