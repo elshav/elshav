@@ -17,19 +17,19 @@ I'm a Business Analyst based in Harare, Zimbabwe, with a strong foundation in ac
 
 ### Skills & Technologies
 <div align="center">
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R" height="25"/>
-    <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white" alt="SQL" height="25"/>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" height="25"/>
-    <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="25"/>
-    <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" alt="RStudio" height="25"/>
-    <img src="https://img.shields.io/badge/DataCamp-2A4C68?style=flat-square&logo=datacamp&logoColor=white" alt="DataCamp" height="25"/>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" height="25"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" alt="R" height="25"/>
+    <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white" alt="SQL" height="25"/>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" alt="Python" height="25"/>
+    <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" height="25"/>
+    <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" alt="RStudio" height="25"/>
+    <img src="https://img.shields.io/badge/DataCamp-2A4C68?style=flat&logo=datacamp&logoColor=white" alt="DataCamp" height="25"/>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" height="25"/>
     <img
-src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white", alt="Tidyverse" height="25"/>
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" height="25"/>
-    <img src="https://img.shields.io/badge/DAX-4479A1?style=flat-square&logo=microsoft&logoColor=white" alt="DAX" height="25"/>
-    <img src="https://img.shields.io/badge/M_Language-5E5E5E?style=flat-square&logo=power-bi&logoColor=white" alt="M Language" height="25"/>
-    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="Microsoft Office" height="25"/>
+src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=flat&logo=Tidyverse&logoColor=white", alt="Tidyverse" height="25"/>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="Power BI" height="25"/>
+    <img src="https://img.shields.io/badge/DAX-4479A1?style=flat&logo=microsoft&logoColor=white" alt="DAX" height="25"/>
+    <img src="https://img.shields.io/badge/M_Language-5E5E5E?style=flat&logo=power-bi&logoColor=white" alt="M Language" height="25"/>
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" alt="Microsoft Office" height="25"/>
 </div>
 
 
