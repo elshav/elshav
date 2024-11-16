@@ -44,11 +44,12 @@ src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=flat&logo=Tidyverse
 - **MBA in Managerial Accounting** (In Progress) - University of the People
 - **Certifications**: Data Analyst Associate Certificate (DataCamp), SQL Language Certification (Data Analyst Associate)
 - 
-![Certificate](https://raw.githubusercontent.com/elshav/elshav/refs/heads/main/IMG_20241116_143413.jpg)
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=flat&logo=Udemy&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=flat&logo=datacamp&logoColor=03E860)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)
+
+![Certificate](https://raw.githubusercontent.com/elshav/elshav/refs/heads/main/IMG_20241116_143413.jpg)
 
 ### Contact Me
 - **Email:** [everiwa@gmail.com](mailto:everiwa@gmail.com)
