@@ -9,7 +9,7 @@
 ### About Me
 [![General badge](https://img.shields.io/badge/DataScience-Accounting-white.svg)](https://shields.io/)
 
-I'm a transitioning Data Scientific Accountant based in Harare, Zimbabwe, with a strong foundation in accounting and a passion for data science. I am a holder of Bcom Business Management Majoring in Finance. Currently I am pursuing my MBA, Accounting and Data Science Professional Certifications. I am currently working to leverage data analysis in driving business insights and improving operational efficiency. My goal is to transition into a professional Data Scientist Accounting major, focusing on predictive analytics and enhancing `Budgeting` and `Financial Reporting` accuracy.
+I'm a transitioning Data Scientific Accountant based in Harare, Zimbabwe, with a strong foundation in accounting and a passion for data science. I am a holder of Bcom Business Management Majoring in Finance. Currently I am pursuing my MBA, Accounting and Data Science Professional Certifications. I am currently working to leverage data in driving business insights and improving operational efficiency. My goal is to transition into a professional Data Scientist Accounting major, focusing on predictive analytics and enhancing `Budgeting` and `Financial Reporting` accuracy.
 
 ### Skills & Technologies
 <div align="center">
