@@ -36,13 +36,15 @@ src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=flat&logo=Tidyverse
 
 
 ### Featured Projects
-- **[Predictive Analytics for Financial Planning](https://github.com/yourusername/project1)**: A project focused on using R to implement predictive analytics for improving budgeting accuracy and financial planning.
-- **[AgriTech & Sustainable Farming Solutions](https://github.com/yourusername/project2)**: Developing innovative solutions to address food insecurity and leverage technology in agriculture, aiming for a data-driven farm business model in Rusape, Zimbabwe.
-- **[Smart Logistics & E-commerce Solutions](https://github.com/yourusername/project3)**: A project aimed at streamlining supply chain management using AI and blockchain technology, targeting inefficiencies in transport infrastructure across Zimbabwe.
+- **[Predictive Analytics for Financial Planning](https://github.com/elshav/project1)**: A project focused on using R to implement predictive analytics for improving budgeting accuracy and financial planning.
+- **[AgriTech & Sustainable Farming Solutions](https://github.com/elshav/project2)**: Developing innovative solutions to address food insecurity and leverage technology in agriculture, aiming for a data-driven farm business model in Rusape, Zimbabwe.
+- **[Smart Logistics & E-commerce Solutions](https://github.com/elshav/project3)**: A project aimed at streamlining supply chain management using AI and blockchain technology, targeting inefficiencies in transport infrastructure across Zimbabwe.
 
 ### Education
 - **MBA in Managerial Accounting** (In Progress) - University of the People
-- **Certifications**: Data Science Certification (DataCamp), SQL Language Certification (Data Analyst Associate)
+- **Certifications**: Data Analyst Associate Certificate (DataCamp), SQL Language Certification (Data Analyst Associate)
+- 
+![Certificate](https://github.com/elshav/IMG_20241116_143413.jpg)
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=flat&logo=Udemy&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=flat&logo=datacamp&logoColor=03E860)
